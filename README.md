@@ -40,4 +40,4 @@ A blog platform built with Laravel, offering functionality for user login, CRUD 
 ## 📫 Let's Connect!  
 If you'd like to collaborate or just chat about tech, feel free to reach out:  
 - **Email**: [danieladi.informatics@gmail.com](mailto:danieladi.informatics@gmail.com).  
-- **LinkedIn**: [daannill](www.linkedin.com/in/daannill).  
+- **LinkedIn**: [daannill](https://www.linkedin.com/in/daannill).  
